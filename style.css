@@ -1,0 +1,132 @@
+  
+  
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Mooli&display=swap');
+
+body {
+    /* background: #42445A;*/
+    background-image: url(back.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%; 
+    /*background-color : #0d1e3a;*/
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-family: Mooli, sans-serif;
+    font-size: small;
+}
+
+h1, h3 {
+  line-height: 0.5;
+}
+
+h1 {
+  font-size: 40px;
+  color: purple;
+  text-shadow: 2px 2px white;
+}
+
+hr {
+  font-weight: bold ;
+  font-size: 25px;
+}
+
+h4 {
+font-family: 'Great Vibes', cursive;
+font-size: 55px;
+font-weight: lighter;
+color: purple;
+text-shadow: 2px 2px white;
+}
+
+#last {
+  font-family: 'Great Vibes', cursive;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+#contacts {
+  font-size: 20px;
+  background-color: white;
+  color: purple;
+  padding: 5px;
+  border-radius: 25px;
+  margin: 5px;
+  box-shadow: 5px 5px purple;
+  font-weight: bold;
+  box-sizing: small;
+}
+
+.shadow {
+ /* text-shadow: 1px 3px black;
+  font-weight: bold;*/
+  font-weight: bold;
+  color: purple;
+  background-color: white;
+  border-radius: 15px;
+  margin: 5px;
+  padding: 10px;
+  box-shadow: 5px 5px purple;
+  font-size: small;
+}
+
+#quote {
+  margin: 5px;
+  padding: 5px;
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  background-color: purple;
+  box-shadow: 5px 5px white;
+}
+
+#quote:hover {
+  color: lightblue;
+}
+
+.parent { /*
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px; */
+}
+
+details {
+  background-color: white;
+  color: purple;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 5px 5px purple;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+.profile-img {
+  width: 65%;
+  border-radius: 25%;
+  box-shadow: 10px 12px white ;
+}
+
+.btn {
+  display: block;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  background-color: purple;
+  box-shadow: 10px 10px white;
+}
+
+footer {
+  
+  background-color: lightpurple;
+  padding: 5px;
+  font-size: small;
+  margin-top: 5px;
+  color: #0d1e3a
+  
+}
