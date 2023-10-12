@@ -85,12 +85,6 @@ text-shadow: 2px 2px white;
   color: lightblue;
 }
 
-.parent { /*
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 5px; */
-}
-
 details {
   background-color: white;
   color: purple;
