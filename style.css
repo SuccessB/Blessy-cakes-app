@@ -46,19 +46,6 @@ text-shadow: 2px 2px white;
   font-size: 25px;
 }
 
-.shadow {
- /* text-shadow: 1px 3px black;
-  font-weight: bold;*/
-  font-weight: bold;
-  color: purple;
-  background-color: white;
-  border-radius: 15px;
-  margin: 5px;
-  padding: 10px;
-  box-shadow: 5px 5px purple;
-  font-size: small;
-}
-
 #quote {
   margin: 5px;
   padding: 5px;
