@@ -46,18 +46,6 @@ text-shadow: 2px 2px white;
   font-size: 25px;
 }
 
-#contacts {
-  font-size: 20px;
-  background-color: white;
-  color: purple;
-  padding: 5px;
-  border-radius: 25px;
-  margin: 5px;
-  box-shadow: 5px 5px purple;
-  font-weight: bold;
-  box-sizing: small;
-}
-
 .shadow {
  /* text-shadow: 1px 3px black;
   font-weight: bold;*/
@@ -85,16 +73,6 @@ text-shadow: 2px 2px white;
   color: lightblue;
 }
 
-details {
-  background-color: white;
-  color: purple;
-  padding: 5px;
-  border-radius: 20px;
-  box-shadow: 5px 5px purple;
-  font-weight: bold;
-  font-size: 20px;
-}
-
 a {
   text-decoration: none;
   
@@ -104,15 +82,6 @@ a {
   width: 65%;
   border-radius: 25%;
   box-shadow: 10px 12px white ;
-}
-
-.btn {
-  display: block;
-  color: white;
-  padding: 10px;
-  margin: 10px;
-  background-color: purple;
-  box-shadow: 10px 10px white;
 }
 
 footer {
