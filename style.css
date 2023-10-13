@@ -71,6 +71,41 @@ a {
   box-shadow: 10px 12px white ;
 }
 
+.shadow {
+  /* text-shadow: 1px 3px black;
+  font-weight: bold;*/
+  font-weight: bold;
+  color: purple;
+  background-color: white;
+  border-radius: 15px;
+  margin: 5px;
+  padding: 10px;
+  box-shadow: 5px 5px purple;
+  font-size: small;
+}
+
+.btn {
+  display: block;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  background-color: purple;
+  box-shadow: 10px 10px white;
+}
+
+#contacts {
+  font-size: 20px;
+  background-color: white;
+  color: purple;
+  padding: 5px;
+  border-radius: 25px;
+  margin: 5px;
+  box-shadow: 5px 5px purple;
+  font-weight: bold;
+  box-sizing: small;
+}
+
+
 footer {
   
   background-color: lightpurple;
