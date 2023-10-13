@@ -66,7 +66,7 @@ a {
 }
 
 .profile-img {
-  width: 65%;
+  width: 50%;
   border-radius: 25%;
   box-shadow: 10px 12px white ;
 }
@@ -94,7 +94,16 @@ a {
   font-weight: bold;
 }
 
-
+#contacts {
+  font-size: 16px;
+  background-color: white;
+  color: purple;
+  padding: 5px;
+  border-radius: 30px;
+  margin: 5px;
+  box-shadow: 5px 5px purple;
+  font-weight: bold;
+}
 
 details {
   background-color: white;
