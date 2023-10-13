@@ -103,6 +103,7 @@ a {
   margin: 5px;
   box-shadow: 5px 5px purple;
   font-weight: bold;
+  box-sizing: small;
 }
 
 details {
