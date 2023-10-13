@@ -22,7 +22,8 @@ h1, h3 {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 36px;
+  font-family: serif, sans-serif;
   color: purple;
   text-shadow: 2px 2px white;
 }
